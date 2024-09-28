@@ -13,6 +13,7 @@ body{
 
 .input{
   visibility: hidden;
+  outline: none;
 }
 
 .label{
