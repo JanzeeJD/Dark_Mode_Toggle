@@ -49,6 +49,7 @@ body{
   animation: toggleOn .4s 
   linear forwards;
   background-color: black;
+  transform: scale(1.05);
 }
 
 
