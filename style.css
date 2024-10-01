@@ -28,6 +28,10 @@ body{
   transition: background-color 0.3s ease;
 }
 
+.label:hover {
+  background-color: #dcdcdc;
+}
+
 .circle{
   width: 34px;
   height: 34px;
